@@ -1,4 +1,4 @@
 # rsschool-profile
 
 Vitali Brych
-HTML CSS Basics: https://www.codecademy.com/VitaliBrych
+HTML CSS Basics: https://www.codecademy.com/users/VitaliBrych/achievements
